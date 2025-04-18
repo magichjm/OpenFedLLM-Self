@@ -4,7 +4,7 @@ This is a personal fork of [OpenFedLLM](https://github.com/rui-ye/OpenFedLLM) wi
 
 ## 🚀 Pipeline
 
-- Download model and training dataset
+- Download model and dataset
 - Federated Learning training
 - Closed-ended evaluation
 - Open-ended evaluation (using DeepSeek-V3)
